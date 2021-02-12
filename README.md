@@ -1,4 +1,11 @@
-### Hi there 👋
+### I'm a Software Engineer / Indie Gamedev  
+#### My projects 
+- [Morstairs on Steam](https://store.steampowered.com/app/1481900/Morstairs__Part_I__Oath_of_Fealty/)
+- [Black Mamba VS The JI-TAN on Microsoft Store](https://www.microsoft.com/fr-fr/p/black-mamba-vs-the-ji-tan/9n00l23nt64g)
+- [More at Itch-io](https://anthony-rey.itch.io/)
+
+#### What I do 
+I'm working mostly on C# projects for Unity. 
 
 <!--
 **ReyAnthony/reyanthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
