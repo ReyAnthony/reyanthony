@@ -5,7 +5,8 @@
 - [More at Itch-io](https://anthony-rey.itch.io/)
 
 #### What I do
-I'm working mostly on C# projects for Unity. 
+- I'm working mostly on C# projects for Unity. 
+- Currently working at a French mobile game studio
 
 
 
