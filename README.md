@@ -1,7 +1,7 @@
 ### I'm a Software Engineer / Indie Gamedev  
 #### My projects
-- [Morstairs on PC](https://store.steampowered.com/app/1481900/Morstairs__Part_I__Oath_of_Fealty/)
-- [Black Mamba VS The JI-TAN on Xbox One / Windows 10](https://www.microsoft.com/fr-fr/p/black-mamba-vs-the-ji-tan/9n00l23nt64g)
+- [Morstairs](https://store.steampowered.com/app/1481900/Morstairs__Part_I__Oath_of_Fealty/) (PC)
+- [Black Mamba VS The JI-TAN](https://www.microsoft.com/fr-fr/p/black-mamba-vs-the-ji-tan/9n00l23nt64g) (Xbox One / Windows 10)
 - [More at Itch-io](https://anthony-rey.itch.io/)
 
 #### What I do
