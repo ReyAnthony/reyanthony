@@ -5,7 +5,7 @@
 - [More at Itch-io](https://anthony-rey.itch.io/)
 
 
-#### My interesting repositories 
+#### Unity related open-source tooling 
 - [G--, A lisp interpreter, written in C# + Antlr](https://github.com/ReyAnthony/G--)
 - [DItan, A lite DI framework for Unity](https://github.com/ReyAnthony/DItan)
 
