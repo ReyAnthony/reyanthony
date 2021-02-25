@@ -1,8 +1,13 @@
 ### I'm a Software Engineer / Indie Gamedev  
-#### My projects
+#### Game projects
 - [Morstairs](https://store.steampowered.com/app/1481900/Morstairs__Part_I__Oath_of_Fealty/) (PC)
 - [Black Mamba VS The JI-TAN](https://www.microsoft.com/fr-fr/p/black-mamba-vs-the-ji-tan/9n00l23nt64g) (Xbox One / Windows 10)
 - [More at Itch-io](https://anthony-rey.itch.io/)
+
+
+#### Interesting repositories 
+- [G--, A lisp interpreter, written in C# + Antlr](https://github.com/ReyAnthony/G--)
+- [DItan, A lite DI framework for Unity](https://github.com/ReyAnthony/DItan)
 
 #### What I do
 - I'm working mostly on C# projects for Unity. 
