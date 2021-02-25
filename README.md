@@ -6,7 +6,7 @@
 
 #### What I do
 - I'm working mostly on C# projects for Unity. 
-- Currently working at a French mobile game studio
+- Lead Tools Developer @Oh Bibi
 
 
 
