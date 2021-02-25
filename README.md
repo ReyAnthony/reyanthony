@@ -8,7 +8,7 @@
 #### Unity related open-source tooling 
 - [G--, A lisp interpreter, written in C# + Antlr](https://github.com/ReyAnthony/G--)
 - [DItan, A lite DI framework for Unity](https://github.com/ReyAnthony/DItan)
-- [WaypointSystem for Unity](https://github.com/ReyAnthony/waypoint-system)
+- [Waypoint System for Unity](https://github.com/ReyAnthony/waypoint-system)
 
 
 #### What I do
