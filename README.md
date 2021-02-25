@@ -12,8 +12,8 @@
 
 
 #### What I do
-- I'm working mostly on C# projects for Unity. 
-- Lead Tools Developer @Oh Bibi , a French mobile games studio
+- I'm working mostly on C# projects to build Unity Tools and on my game Morstairs.
+- Lead Tools Developer @Oh Bibi, a French mobile games studio.
 
 
 
