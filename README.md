@@ -17,6 +17,6 @@
 
 
 #### What I do
-- I'm working mostly on C# projects to build Unity Tools and on my game Morstairs.
+- I'm working mostly on C# projects to build Unity Tools and on my games.
 - Tools Developer at Ubisoft (C# / C++)
 - Previously Lead Tools Developer at OhBibi (C# / Python)
