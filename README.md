@@ -1,16 +1,22 @@
-### Hi there 👋
+### I'm a Software Engineer / Indie Gamedev  
+#### Game projects
+- [Black Mamba VS The JI-TAN](https://www.microsoft.com/fr-fr/p/black-mamba-vs-the-ji-tan/9n00l23nt64g) (Xbox One / Windows 10)
+- [Morstairs](https://store.steampowered.com/app/1481900/Morstairs__Part_I__Oath_of_Fealty/) (PC - On Hold - Demo available)
+- [More at Itch-io](https://anthony-rey.itch.io/)
 
-<!--
-**ReyAnthony/reyanthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Unity related open-source tooling 
+- [G--, A Lisp interpreter, written in C# + Antlr](https://github.com/ReyAnthony/G--)
+- [Waypoint System for Unity](https://github.com/ReyAnthony/waypoint-system)
+- [Sequencer, to run async sequences of operations](https://github.com/ReyAnthony/Sequencer) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I would like to work more on
+- C#, C/C++, Lisp, language and compilers theory, Meta-programming
+- Emulators, code forensics ... 
+- You name it, CHALLENGE ME.
+
+
+#### What I do
+- I'm working mostly on C# projects to build Unity Tools and on my game Morstairs.
+- Tools Developer at Ubisoft (C# / C++)
+- Previously Lead Tools Developer at OhBibi (C# / Python)
