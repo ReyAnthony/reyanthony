@@ -8,6 +8,7 @@
 #### Unity related open-source tooling 
 - [G--, A Lisp interpreter, written in C# + Antlr](https://github.com/ReyAnthony/G--)
 - [DItan, Scriptable Object based DI](https://github.com/ReyAnthony/DItan)
+- [Caravan, Easy Serialization of Scriptable Objects](https://github.com/ReyAnthony/Caravan) 
 - [Waypoint System for Unity](https://github.com/ReyAnthony/waypoint-system)
 - [Sequencer, to run async sequences of operations](https://github.com/ReyAnthony/Sequencer) 
 
