@@ -5,7 +5,7 @@
 - [More at Itch-io](https://anthony-rey.itch.io/)
 
 
-#### Unity related open-source tooling 
+#### Unity related open-source tooling (MIT licenced)
 - [G--, A Lisp interpreter, written in C# + Antlr](https://github.com/ReyAnthony/G--)
 - [DItan, Scriptable Object based DI](https://github.com/ReyAnthony/DItan)
 - [Caravan, Easy Serialization of Scriptable Objects](https://github.com/ReyAnthony/Caravan) 
