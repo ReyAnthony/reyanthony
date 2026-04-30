@@ -19,6 +19,6 @@
 
 
 #### What I do
-- I'm working mostly on C# projects to build Unity Tools and on my games.
-- Tools Developer at Ubisoft (C# / C++)
+- Tools/Engine Developer @ Ubisoft on The Division : Resurgence (Unreal/C++)
+- Previously Tools Developer @ Ubisoft on Anvil (C#/C++)
 - Previously Lead Tools Developer at OhBibi (C# / Python)
