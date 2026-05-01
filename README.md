@@ -4,7 +4,6 @@
 - [Morstairs](https://store.steampowered.com/app/1481900/Morstairs__Part_I__Oath_of_Fealty/) (PC - On Hold - Demo available)
 - [More at Itch-io](https://anthony-rey.itch.io/)
 
-
 #### Unity related open-source tooling (MIT licenced)
 - [G--, A Lisp interpreter, written in C# + Antlr](https://github.com/ReyAnthony/G--)
 - [DItan, Scriptable Object based DI](https://github.com/ReyAnthony/DItan)
@@ -17,8 +16,7 @@
 - Emulators, code forensics ... 
 - You name it, CHALLENGE ME.
 
-
 #### What I do
-- Tools/Engine Developer @ Ubisoft on The Division : Resurgence (Unreal/C++)
-- Previously Tools Developer @ Ubisoft on Anvil (C#/C++)
+- Tools/Engine Developer at Ubisoft on The Division : Resurgence (Unreal/C++)
+- Previously Tools Developer at Ubisoft on Anvil (C#/C++)
 - Previously Lead Tools Developer at OhBibi (C# / Python)
