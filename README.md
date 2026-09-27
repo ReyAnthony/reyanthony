@@ -13,9 +13,10 @@
 
 #### Related organizations
 - To keep my GitHub profile uncluttered some of my projects are in the following organizations :
-  - [Anthony's Gamed Stuff](https://github.com/orgs/GamedevArchive/repositories)
+  - [Anthony's Gamedev Stuff](https://github.com/orgs/GamedevArchive/repositories)
   - [Ji-Tan-Clan](https://github.com/Ji-Tan-Clan)
   - [Dreamcast focus organization](https://github.com/orgs/DreamyStuff/repositories)
+  - [Stuff made in Lisp](https://github.com/LispyStuff)
 
 #### What I would like to work more on
 - C#, C/C++, Lisp, language and compilers theory, Meta-programming
